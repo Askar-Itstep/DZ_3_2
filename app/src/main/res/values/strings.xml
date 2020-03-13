@@ -1,0 +1,8 @@
+<resources>
+<string name="app_name">DZ_3_2</string>
+<string name="action_create_file">Создать файл</string>
+<string name="action_open_file">Открыть файл</string>
+<string name="action_save_file">Сохранить файл</string>
+<string name="action_remove_file">Удалить файл/каталог</string>
+<string name="action_create_folder">Создать каталог</string>
+</resources>
